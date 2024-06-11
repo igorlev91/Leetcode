@@ -36,6 +36,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [78. Subsets](https://leetcode.com/problems/subsets/description/)
 * [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)
 * [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)
+* [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
 * [86. Partition List](https://leetcode.com/problems/partition-list/description/)
 * [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)
 * [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)
@@ -60,5 +61,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [415. Add Strings](https://leetcode.com/problems/add-strings/description/)
 * [504. Base 7](https://leetcode.com/problems/base-7/description/)
 * [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)
-* [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)
