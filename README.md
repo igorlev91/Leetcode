@@ -53,6 +53,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
 * [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/)
 * [231. Power of Two](https://leetcode.com/problems/power-of-two/description/)
+* [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/description/)
 * [263. Ugly Number](https://leetcode.com/problems/ugly-number/description/)
 * [268. Missing Number](https://leetcode.com/problems/missing-number/description/)
 * [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)
