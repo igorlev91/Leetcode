@@ -38,6 +38,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [65. Valid Number](https://leetcode.com/problems/valid-number/description/)
 * [66. Plus One](https://leetcode.com/problems/plus-one/description/)
 * [67. Add Binary](https://leetcode.com/problems/add-binary/description/)
+* [68. Text Justification](https://leetcode.com/problems/text-justification/description/)
 * [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
 * [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
 * [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/)
@@ -81,4 +82,3 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [504. Base 7](https://leetcode.com/problems/base-7/description/)
 * [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)
-//test
