@@ -10,6 +10,7 @@ link_directories(external/googletest/bin)
 
 enable_testing()
 # Algorithms
+add_subdirectory(Algorithms/CommonLib bin/CommonLib)
 add_subdirectory(Algorithms/0001.TwoSum bin/0001.TwoSum)
 add_subdirectory(Algorithms/0002.AddTwoNumbers bin/0002.AddTwoNumbers)
 add_subdirectory(Algorithms/0006.ZigZagConversion bin/0006.ZigZagConversion)
@@ -130,6 +131,7 @@ add_subdirectory(Algorithms/0273.IntegerToEnglishWords bin/0273.IntegerToEnglish
 add_subdirectory(Algorithms/0278.FirstBadVersion bin/0278.FirstBadVersion)
 add_subdirectory(Algorithms/0283.MoveZeroes bin/0283.MoveZeroes)
 add_subdirectory(Algorithms/0290.WordPattern bin/0290.WordPattern)
+add_subdirectory(Algorithms/0297.SerializeAndDeserializeBinaryTree bin/0297.SerializeAndDeserializeBinaryTree)
 add_subdirectory(Algorithms/0299.BullsAndCows bin/0299.BullsAndCows)
 add_subdirectory(Algorithms/0328.OddEvenLinkedList bin/0328.OddEvenLinkedList)
 add_subdirectory(Algorithms/0344.ReverseString bin/0344.ReverseString)
